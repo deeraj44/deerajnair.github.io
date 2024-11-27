@@ -50,5 +50,5 @@ Engineered a sophisticated data scraper for Flipkart, extracting detailed smartp
 - Supply Chain Operations - Rutgers University - Prof. Rudolf Leuschner
 
 ## Contact
-[Linkedin](https://www.linkedin.com/in/deeraj-nair-1a7403214/)
-[Email](deerajnair44@gmail.com)
+- ### [Linkedin](https://www.linkedin.com/in/deeraj-nair-1a7403214/)
+- ### [Email](mailto:deerajnair44@gmail.com)
