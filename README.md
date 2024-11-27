@@ -1,1 +1,8 @@
-# deerajnair.github.io
+# Data Analyst
+
+### Education
+- Masters
+- Bachelors
+
+### Projects
+Backorder Prediction
