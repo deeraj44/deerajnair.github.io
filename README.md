@@ -39,7 +39,7 @@ Contributed to a pivotal group project aimed at mitigating social media toxicity
 Engineered a sophisticated data scraper for Flipkart, extracting detailed smartphone specifications. Leveraged BeautifulSoup forefficient web scraping, producing an Excel database ideal for advanced product analysis and market insights.
 
 
-#### Technical Skills: : Python, R, C++, Power BI, Tableau, Looker Studio, MySQL, PostgreSQL, MongoDB, ERD, Jupyter Notebook, Web Scraping, Data Visualization, Data Analysis, Data Cleansing, SQL, Data Management, Feature Engineering, Machine learning, Feature Engineering, Predictive Modeling, Supply Chain, Statistics, MS Excel, MS Office
+#### Technical Skills: Python, R, C++, Power BI, Tableau, Looker Studio, MySQL, PostgreSQL, MongoDB, ERD, Jupyter Notebook, Web Scraping, Data Visualization, Data Analysis, Data Cleansing, SQL, Data Management, Feature Engineering, Machine learning, Feature Engineering, Predictive Modeling, Supply Chain, Statistics, MS Excel, MS Office
 
 #### Soft Skills: Communication, Problem Solving, Time Management, Decision Making, Teamwork, Client Interaction
 
