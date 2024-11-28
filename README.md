@@ -4,7 +4,8 @@
 - MS in Data Science | Indiana University - Bloomington ![IUB](https://github.com/user-attachments/assets/cd67404b-6851-451b-98e8-f367469dc7ca)  
 (_August 2023 - May 2025_)
 
-- B.Tech in Computer Science | SRM Univerity - Chennai (_August 2019 - May 2023_)
+- B.Tech in Computer Science | SRM Univerity - Chennai ![Untitled](https://github.com/user-attachments/assets/6c79226c-4e18-4bdb-b0dc-d4d3439ad544)  
+(_August 2019 - May 2023_)
 
 ## Work Experience
 **Data Science Intern @ DataMingle Analytics Pvt Ltd (_June 2024 - July 2024_)**
