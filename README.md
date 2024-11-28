@@ -2,11 +2,11 @@
 
 ## Education
 - MS in Data Science | Indiana University - Bloomington ![IUB](https://github.com/user-attachments/assets/cd67404b-6851-451b-98e8-f367469dc7ca)  
-(_August 2023 - May 2025_)
+(_August 2023 - May 2025_)  
 Relevant Courses: Data Mining, Advanced Database Concepts, Introduction to Statistics, Big Data in Economics, Data Visualization, Database Design
 
 - B.Tech in Computer Science | SRM Univerity - Chennai ![srm](https://github.com/user-attachments/assets/2fea2296-024c-49c8-b0c4-4d55b8cf0f7d)  
-(_August 2019 - May 2023_)
+(_August 2019 - May 2023_)  
 Relevant Courses: Artificial Intelligence, Data Structures and Algorithms, Database Management Systems
 
 ## Work Experience
