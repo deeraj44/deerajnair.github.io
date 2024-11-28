@@ -24,6 +24,7 @@
 
 ## Projects
 ### Backorder Prediction
+[Link](https://github.com/deeraj44/Backorder-Prediction)
 
 Executed a comprehensive data science workflow to ensure robust predictions, encompassing meticulous data cleaning and preparation, in-depth exploratory data analysis (EDA), significant feature engineering and selection, and the development of a machine learning model from scratch on a dataset with over 1 million observations.
 
