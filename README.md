@@ -5,7 +5,7 @@
 (_August 2023 - May 2025_)  
 Relevant Courses: Data Mining, Advanced Database Concepts, Introduction to Statistics, Big Data in Economics, Data Visualization, Database Design
 
-- B.Tech in Computer Science | SRM Univerity - Chennai ![srm](https://github.com/user-attachments/assets/2fea2296-024c-49c8-b0c4-4d55b8cf0f7d)  
+- B.Tech in Computer Science | SRM Univerity - Chennai ![512px-Srmseal](https://github.com/user-attachments/assets/8d0f2706-1931-4a94-b205-4c0d2251ee63)  
 (_August 2019 - May 2023_)  
 Relevant Courses: Artificial Intelligence, Data Structures and Algorithms, Database Management Systems
 
