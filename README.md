@@ -1,7 +1,8 @@
 # Data Analyst
 
 ## Education
-- MS in Data Science | Indiana University - Bloomington (_August 2023 - May 2025_)
+- MS in Data Science | Indiana University - Bloomington (_August 2023 - May 2025_) ![image](https://github.com/user-attachments/assets/b4b5b4e8-9904-4607-b8cd-40f3493a177c)
+
 - B.Tech in Computer Science | SRM Univerity - Chennai (_August 2019 - May 2023_)
 
 ## Work Experience
