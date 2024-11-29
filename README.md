@@ -33,6 +33,12 @@ Relevant Courses: Artificial Intelligence, Data Structures and Algorithms, Datab
 
 Executed a comprehensive data science workflow to ensure robust predictions, encompassing meticulous data cleaning and preparation, in-depth exploratory data analysis (EDA), significant feature engineering and selection, and the development of a machine learning model from scratch on a dataset with over 1 million observations.
 
+### Sales Analytics Dashboard using Power BI
+[Link](https://github.com/deeraj44/Sales-Analytics-Dashboard-in-Power-BI)
+
+Created a dynamic Power BI dashboard to optimize sales, cost, shipment, and profitability analysis across regions, delivering actionable insights on monthly trends and high-performing products to support strategic business decisions.
+![image](https://github.com/user-attachments/assets/4dff8084-645b-4e7b-a4af-334bc73adf37)
+
 
 ### Classification of Toxic Comments
 [Link](https://github.com/MDhopate/Data-Mining-Project)
