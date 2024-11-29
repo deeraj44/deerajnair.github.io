@@ -36,7 +36,7 @@ Executed a comprehensive data science workflow to ensure robust predictions, enc
 ### Sales Analytics Dashboard using Power BI
 [Link](https://github.com/deeraj44/Sales-Analytics-Dashboard-in-Power-BI)
 
-Created a dynamic Power BI dashboard to optimize sales, cost, shipment, and profitability analysis across regions, delivering actionable insights on monthly trends and high-performing products to support strategic business decisions.
+Created a dynamic Power BI dashboard to optimize sales, cost, shipment, and profitability analysis across regions, delivering actionable insights on monthly trends and high-performing products to support strategic business decisions.  
 ![image](https://github.com/user-attachments/assets/4dff8084-645b-4e7b-a4af-334bc73adf37)
 
 
