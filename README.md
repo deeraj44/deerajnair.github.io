@@ -62,7 +62,3 @@ Engineered a sophisticated data scraper for Flipkart, extracting detailed smartp
 - Business and Operation Analytics - NITIE, Prof. David Simchi-Levi
 - Supply Chain Logistics - Rutgers University - Prof. Rudolf Leuschner
 - Supply Chain Operations - Rutgers University - Prof. Rudolf Leuschner
-
-## Contact
-- ### [Linkedin](https://www.linkedin.com/in/deeraj-nair-1a7403214/)
-- ### [Email](mailto:deerajnair44@gmail.com)
