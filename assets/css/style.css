@@ -1,23 +1,22 @@
 ---
 ---
-@import "{{ site.theme }}";
+@import "minimal"; /* Replace "minimal" with your theme */
 
-/* General Body Styling */
+/* General Styling */
 body {
   font-family: 'Arial', sans-serif;
-  color: black; /* Set all text to black */
-  background-color: #f9f9f9; /* Light background for contrast */
+  color: #333;
+  background-color: #f9f9f9;
   margin: 0;
   padding: 0;
-  line-height: 1.6;
 }
 
-/* Header Styling */
+/* Header */
 header {
-  background: #333; /* Dark background for header */
-  color: #fff; /* White text in the header */
-  padding: 20px 0;
   text-align: center;
+  background: #4CAF50;
+  color: white;
+  padding: 20px 0;
 }
 
 header h1 {
@@ -27,78 +26,63 @@ header h1 {
 
 header p {
   font-size: 1.2em;
-  font-style: italic;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
-/* Navigation Links */
-header a {
-  color: #f9f9f9;
+header nav a {
+  margin: 0 15px;
+  color: white;
   text-decoration: none;
+  font-weight: bold;
 }
 
-header a:hover {
+header nav a:hover {
   text-decoration: underline;
 }
 
-/* Content Section */
-section {
-  max-width: 900px;
+/* Main Content */
+main {
+  max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  background: #fff; /* White background for content */
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  background: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
 }
 
-/* Footer Styling */
-footer {
-  text-align: center;
-  padding: 10px 0;
-  background: #333; /* Same as header */
-  color: #fff;
-  margin-top: 20px;
+section {
+  margin-bottom: 40px;
 }
 
-footer p {
-  font-size: 0.9em;
+section h2 {
+  font-size: 1.8em;
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 5px;
 }
 
-/* Button Styling */
-a.button {
-  display: inline-block;
-  padding: 10px 20px;
-  margin: 10px 5px;
-  color: #fff;
-  background-color: #007acc;
-  border-radius: 5px;
+.project {
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  font-size: 1.5em;
+}
+
+.project a {
+  color: #4CAF50;
   text-decoration: none;
 }
 
-a.button:hover {
-  background-color: #005f99;
+.project a:hover {
+  text-decoration: underline;
 }
 
-/* Image Styling */
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 5px;
+/* Footer */
+footer {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 10px 0;
+  margin-top: 40px;
+  font-size: 0.9em;
 }
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  body {
-    font-size: 14px;
-  }
-
-  header h1 {
-    font-size: 2em;
-  }
-
-  section {
-    padding: 15px;
-  }
-}
-
