@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    {% include head-custom.html %}
+<!--     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
@@ -53,4 +53,109 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
-</html>
+</html> -->
+
+---
+---
+@import "{{ site.theme }}";
+
+/* General Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  color: black; /* Set all text to black */
+  background-color: #f9f9f9; /* Light background for contrast */
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+  background: #333; /* Dark background for header */
+  color: #fff; /* White text in the header */
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+header p {
+  font-size: 1.2em;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+/* Navigation Links */
+header a {
+  color: #f9f9f9;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+/* Content Section */
+section {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff; /* White background for content */
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background: #333; /* Same as header */
+  color: #fff;
+  margin-top: 20px;
+}
+
+footer p {
+  font-size: 0.9em;
+}
+
+/* Button Styling */
+a.button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 5px;
+  color: #fff;
+  background-color: #007acc;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a.button:hover {
+  background-color: #005f99;
+}
+
+/* Image Styling */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+
+  header h1 {
+    font-size: 2em;
+  }
+
+  section {
+    padding: 15px;
+  }
+}
+
