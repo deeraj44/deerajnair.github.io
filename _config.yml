@@ -3,3 +3,11 @@ logo: /assets/img/headshot.png
 description: Passionate about transforming data into actionable insights. Skilled in predictive modeling, data visualization, and machine learning, with a focus on supply chain optimization. Dedicated to creating impactful, data-driven solutions.
 show_downloads: false
 theme: jekyll-theme-minimal
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/deerajnair
+  - name: GitHub
+    url: https://github.com/deerajnair
+  - name: Email
+    url: mailto:deerajnair44@gmail.com
+
